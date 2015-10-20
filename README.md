@@ -1,4 +1,4 @@
-# Movie Project Version 2.0 19 October 2015
+# Movie Project Version 3.0 20 October 2015
 
 
 In order to run this program, please run module for entertainment_center.py
@@ -22,13 +22,13 @@ You can also run this program by double-clicking fresh_tomatoes.html
 
 ### Changelog
 
-20 October 2015
+Version 3.0 - 20 October 2015
 
 - Changed readme file to .md from .txt  :+1:
 
 - Added notes to entertainment_center.py
 
-19 October 2015 
+Version 2.0 - 19 October 2015 
 
 - Fixed formatting, white space, and line length issues.
 
@@ -45,7 +45,7 @@ You can also run this program by double-clicking fresh_tomatoes.html
 	  information
 
 
-16 October 2015 
+Version 1.0 - 16 October 2015 
 
 - Original submission without any CSS or HTML updates to fresh_tomatoes.py
 
